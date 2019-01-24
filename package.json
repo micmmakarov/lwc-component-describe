@@ -1,0 +1,19 @@
+{
+  "name": "lwc-component-describe",
+  "version": "1.0.0",
+  "description": "Scans the API for LWC component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micmmakarov/lwc-component-describe.git"
+  },
+  "author": "Mikhail Makarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micmmakarov/lwc-component-describe/issues"
+  },
+  "homepage": "https://github.com/micmmakarov/lwc-component-describe#readme"
+}
